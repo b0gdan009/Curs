@@ -6,3 +6,4 @@ Intro/The xx
 All Night/Parov Stelar
 Play/Moonlight Breakfast
 Stairway to Heaven/Led Zeppelin
+https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
